@@ -24,19 +24,6 @@ The Software system is an online movie ticket booking system where customers can
   </tr>
 </table>
 
-## How To Use
-##### Software needed to run the application
-Eclipse or Spring Tool Suite(STS).
-##### How to Extract Files
-Files can be extracted in two ways.
-1. Download ZIP File
-   * Download ZIP File from Code -> Download ZIP
-   * After download is completed, extract files
-   * Start Eclipse/Spring Boot by choosing a workplace. Import project (Import -> Maven ->Existing Maven Projects ->Choose Root Directory) and click on finish. Project will be imported.
-2. Clone Git Repository
-   * Use URL - https://github.com/ani1100/MovieTicketBooking.git for cloning.
-   * Start Eclipse/Spring Boot by choosing a workplace. Go to GIT Perspective -> Clone a Git Repository -> Paste the URL for cloning -> Click on Next -> Click on Finish on next pop up. 
-   * After this, a local git repository will be created.
 ## Database 
 For sample purpose, h2 database(local database) is integrated with the application so that application can run for any user.<br>
 If user want to change the database, they can make relevant changes in "application.properties" file.<br>
