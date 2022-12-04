@@ -34,7 +34,7 @@ Files can be extracted in two ways.
    * After download is completed, extract files
    * Start Eclipse/Spring Boot by choosing a workplace. Import project (Import -> Maven ->Existing Maven Projects ->Choose Root Directory) and click on finish. Project will be imported.
 2. Clone Git Repository
-   * Use URL - https://github.com/ani1100/busSeatAllocationSystem.git for cloning.
+   * Use URL - https://github.com/ani1100/MovieTicketBooking.git for cloning.
    * Start Eclipse/Spring Boot by choosing a workplace. Go to GIT Perspective -> Clone a Git Repository -> Paste the URL for cloning -> Click on Next -> Click on Finish on next pop up. 
    * After this, a local git repository will be created.
 ## Database 
