@@ -1,0 +1,22 @@
+.custbook1
+{
+  background-color:#6CB4EE;
+  float:left;
+  padding:20px;
+  margin-left:5%;
+  margin-right:5%;
+  text-align:center;
+  border:2px ridge black;
+}
+.custbook2
+{
+  width:50px;
+  height:50px;
+  float:left;
+  margin:1px;
+}
+
+.clear1
+{
+  clear:both;
+}
