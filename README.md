@@ -20,7 +20,6 @@ The Software system is an online movie ticket booking system where customers can
   <tr>
     <td><img src="https://user-images.githubusercontent.com/112768196/205480789-a5ff4ac0-6090-49be-b00f-d280084b7e20.png" alt="Your image title" width="250" height="100"/></td>
     <td><img src="https://user-images.githubusercontent.com/112768196/205480811-b27b0670-ed1d-4623-a5ba-250189b6498e.png" alt="Your image title" width="250" height="100"/></td>
-    <td><img src="https://user-images.githubusercontent.com/112768196/205480833-44c808d7-da1d-4d43-a058-0b8fa41422cc.png" alt="Your image title" width="250" height="100"/></td>
   </tr>
 </table>
 
