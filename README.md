@@ -1,5 +1,5 @@
 # Movie Ticket Booking
-A Basic Movie Ticket Booking System.
+A Basic Movie Ticket Booking System. Best suited for someone who is a beginner in Java full stack development. 
 
 ## About
 The Software system is an online movie ticket booking system where customers can book seats according to their preference.<br>
